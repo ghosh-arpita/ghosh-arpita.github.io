@@ -1,0 +1,68 @@
+image: https://lh3.googleusercontent.com/a-/AD5-WCncVQk_ejSIvLTJtN4gleUKwrsDrhIvrAS8Fp8jig=s48-p
+username: Arpita Ghosh
+description: An Undergraduate Psychology Major. But more importantly, an academic who just loves dogs.
+webpage: https://ghosh-arpita.github.io
+experience: # Remove for hiding the experience section
+  - start: 2022-12-01
+    end: 2023-01-01
+    experience : Ashoka University, Teaching Assistant for PSY-2001
+  - start: 2022-11-01
+    end: 2023-01-01
+    experience : Ashoka University, Tutor at Psychology Helpdesk
+  - start: 2022-05-01
+    end: Present
+    experience : Neuroethology Laboratory AU, Researcher and Special Project Coordinator
+  - start: 2022-05-01
+    end: Present
+    experience : Child Development Psychology Laboratory AU, Researcher and Researcher Head for Autism Spectrum Disorder Project
+  - start: 2021-12-01
+    end: 2022-8-1
+    experience : Melnattur Laboratory AU, Research Intern
+  - start: 2021-09-01
+    end: 2021-11-01
+    experience : Ashoka University Office of Learning Support, Mentor
+  - start: 2020-01-01
+    end: 2020-03-01
+    experience : M.P Birla Corporation, Human Resource Intern
+  - start: 2019-04-01
+    end: 2020-04-01
+    experience : Private, Self-initiated Teaching Practicum
+interests: # Remove for hiding the interests section
+  - Mental Health and Mood Disorders - with special focus on College Students 
+  - Learning Disorders 
+  - Autism Spectrum Disorder
+skills: # Remove for hiding the skills section
+  - skill: Data Organization
+    value: 95  # Percent value
+  - skill: JAMVOVI
+    value: 90  # Percent value
+  - skill: JASP
+    value: 90  # Percent value
+  - skill: Research Designing
+    value: 100 # Percent value
+  - skill: Communication
+    value: 95  # Percent value
+social:
+  email:  arpita.ghosh_ug23@ashoka.edu.in
+  orcid: 
+  scholar: 
+  publons: 
+  research_gate: 
+  dblp:  # Full URL
+  semantic_scholar:  # Full URL
+  linkedin:  https://www.linkedin.com/in/arpita-g-8068741b3/
+  github: ghosh-arpita
+  gitlab: 
+  bitbucket: 
+  google_plus:
+  mastodon: 
+  twitter: 
+  youtube:
+  facebook:
+  instagram:
+awards: # Remove for hiding the awards section
+  - "Dean’s List at Ashoka University in every semester | 2020 - Present"
+  - "Prabhat Samman Award at Akshar School for distinguished performance in school for 12th Grade board examinations and excellence in leadership and co-curricular activitie | 2019"
+  - "All Round Achievement and Academic Excellence Award at Akshar School every consecutive year | 2012 - 2019"
+  - "Duke of Edinburgh’s Award at International Award for Young People (IAYP) | 2017"
+  - "Rajpal Khullar Memorial Award at Akshar School | 2017"

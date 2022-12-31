@@ -1,0 +1,28 @@
+- project :
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url: 
+    image:
+    date: 05/2022 &ndash; Developing
+    title: Studying the Ecological Advantage of Depression in Zebrafish
+    summary:  
+
+- project:
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url:  # Full URL
+    image: # path: assets/project/
+    date: 05/2022 &ndash; Developing
+    title: Developing a coding template for Autism Spectrum Disorder
+    summary: 
+    description:  
+
+- project:
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url:  # Full URL
+    image: # path: assets/project/
+    date: 12/2021 &ndash; 08/22
+    title: Examining the neural morphology of Drosophila 
+    summary: 
+    description:  
