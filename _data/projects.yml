@@ -3,7 +3,7 @@
     modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url: 
     image:
-      path: https://media.istockphoto.com/id/866995028/photo/zebrafish-in-aquarium.jpg?b=1&s=170667a&w=0&k=20&c=xN-6BzVZX8BHG6KCoS0dOOssMHRpQfxPbHsZi7yCISg=
+      path: zebrafish.jpg
       alt: Zebrafish in a tank with green plants behind it
     date: 05/2022 &ndash; Developing
     title: Studying the Ecological Advantage of Depression in Zebrafish
@@ -12,7 +12,7 @@
     contents:
         - title: Project Details
           image:
-            path: assets/img/fishstorage.webp
+            path: fishstorage.webp
             alt: Picture of the storage facility for the zeebra fish.
           description: <p>Working in the laboratory over the summers helped me realize that my 
                     true passion lies in conducting hands-on research. Thus, my colleague and I designed 
@@ -34,13 +34,83 @@
                     laboratory meeting has strengthened my critical thinking and communication skills.</p>
                     <p>Laboratory Profile - https://www.neuroethology.in/arpita</p>
 
-
-- project:
+- project :
     print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url:  # Full URL
-    image: # path: assets/project/
+    url: 
+    image:
+      path: childpsych.jpeg
+      alt: Zebrafish in a tank with green plants behind it
+    date: 05/2022 &ndash; Developing
+    title: Child Development Psychology Laboratory
+    summary: 
+    description: Under the guidance of Dr. Madhavilatha Maganti, this study will be 
+                conducted to identify specific patterns in the play behavior of children 
+                with ASD (Autism Spectrum Disorder) using feature sets from the Four-fold 
+                Framework (also developed as a part of this study)
+    contents:
+        - title: Project Details
+          image:
+            path: autism.webp
+            alt: 
+          description: <p> Although conceptually 
+                        derived from the work of Smith and Gasser (2005):The Development of 
+                        Embodied Cognition:Six Lessons from Babies, while they engage in 
+                        object-directed play sessions. The frame-by-frame microgenetic study of 
+                        their dyadic play will aid parents, instructors, and researchers recognize 
+                        patterns, diversity, repetition, and stereotypicality in the play behaviors 
+                        of atypical children, eventually helping them with an environment that will 
+                        potentiate the development of their socio-cognitive, communication, and 
+                        emotional skills.  </p>
+
+                        <p>The study aims to bridge this gap by studying play behaviors using feature 
+                        sets consisting of behavioral codes that systematically operationalize 
+                        observable behaviors during play (Bakeman & Quera, 2012; Chorney et al., 
+                        2015). The microgenetic approach which will be taken for this study provides 
+                        scope for making detailed narrative descriptions of observations made by 
+                        researchers for gaining a comprehensive understanding of the behavioral pattern 
+                        of play displayed by children with ASD while engaging in object-directed play 
+                        activities (van Geert, 1998; Fogel, 2011; Fogel, 2011).</p>
+
+                        <p>Data collected from Dr. Shabina’s center, Assam Autism Foundation, was used 
+                        by the researchers to operationalize variables, develop codes, check for validity, 
+                        learn behavioral coding, check for reliability and develop the research template. 
+                        Each videotaped session was coded, frame-by-frame, using a fine-graded qualitative 
+                        analysis using the Four-fold Observation Framework developed by the research team.</p>
+
+                        <p>This project helped me understand how children with ASD engage in complex behaviors, 
+                        especially while engaging in play. The observation of behavior helped us to understand 
+                        the dyadic and triadic relationship that children with ASD share with toys and their 
+                        parents/instructor, respectively. with every change in subject, we truly realized that 
+                        Autism is a spectrum and people with ASD are placed differently in terms of abilities 
+                        and how they cope with tasks and emotions. Like any typical individual, children with 
+                        ASD too have different needs, strengths, and weaknesses. </p>
+
+                        <p>In the process of noting their specific behaviors in the videos, I learned how to 
+                        operationalize activities that were observed — and develop codes and sub-codes for them. 
+                        The entire process of coding, checking for the reliability of the coding by doing secondary 
+                        coding not only gave me an on-ground application of qualitative research but also helped us 
+                        gain skills that are essential while working in a team. I not only identified coding discrepancies 
+                        between the researchers but also found ways to revisit the coding where there were disagreements 
+                        and discussed them together to resolve them. </p>
+
+
+- project :
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url: 
+    image:
+      path: Drosophila.jpeg
+      alt: Zebrafish in a tank with green plants behind it
     date: 12/2021 &ndash; 08/22
     title: Examining the neural morphology of Drosophila 
     summary: 
-    description:  
+    description: In my course of working with Dr. Melnattur, I achieved an understanding of different aspects of sleep in Drosophila – its plasticity and how it supports neural plasticity.Examined the neural morphology of Drosophila and presented papers to the research team explaining the same. Researcher Profile:https://krishna-melnattur.weebly.com/team.html
+    # contents:
+    #     - title: Project Details
+    #       image:
+    #         path: 
+    #         alt: 
+    #       description: 
+
+
