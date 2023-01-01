@@ -3,19 +3,37 @@
     modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url: 
     image:
+      path: https://media.istockphoto.com/id/866995028/photo/zebrafish-in-aquarium.jpg?b=1&s=170667a&w=0&k=20&c=xN-6BzVZX8BHG6KCoS0dOOssMHRpQfxPbHsZi7yCISg=
+      alt: Zebrafish in a tank with green plants behind it
     date: 05/2022 &ndash; Developing
     title: Studying the Ecological Advantage of Depression in Zebrafish
-    summary:  
-
-- project:
-    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-    modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url:  # Full URL
-    image: # path: assets/project/
-    date: 05/2022 &ndash; Developing
-    title: Developing a coding template for Autism Spectrum Disorder
     summary: 
-    description:  
+    description: Over the summer of 2022, I began working with Dr. Bittu K. Rajaraman in his Neuroethology and Behaviour Science Laboratory. We worked on understanding the quantitative abilities of Zebra Fish (Danio rerio).c
+    contents:
+        - title: Project Details
+          image:
+            path: assets/img/fishstorage.webp
+            alt: Picture of the storage facility for the zeebra fish.
+          description: <p>Working in the laboratory over the summers helped me realize that my 
+                    true passion lies in conducting hands-on research. Thus, my colleague and I designed 
+                    a study to understand the ecological advantage of depression in Zebra Fish. This is 
+                    an ongoing laboratory project under Dr. Rajaraman's guidance. Considering the relative dearth 
+                    of literature studying the ‘advantage’ of depression, my college and I aim to find 
+                    out how this mental health disorder could have a survival advantage for an organism. 
+                    We specifically chose to study zebra fish because its genetic system is very similar 
+                    to that of mammals, and this model has been previously used in medical trials for its 
+                    direct implication in human systems.</p>
+                    <p>As of now, baseline measures have been taken for the pilot study. In the Spring 
+                    of 2023, we will be beginning our experimental trials. The exact details of the study 
+                    are not public yet.</p>
+                    <p>My experience of working in this laboratory has been extremely fruitful for the skills
+                    I have gained and for the relationships I have built. Handling Zebra Fish, and its 
+                    larvae–requires an enormous amount of practice. I am grateful to have been able 
+                    to learn these skills while working in the laboratory for almost a year now. Further, 
+                    working with the research team, and presenting and critiquing papers in every 
+                    laboratory meeting has strengthened my critical thinking and communication skills.</p>
+                    <p>Laboratory Profile - https://www.neuroethology.in/arpita</p>
+
 
 - project:
     print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
